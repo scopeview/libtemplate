@@ -1,0 +1,14 @@
+libtemplate
+- a head only template library, currently it's mainly a std::tuple template extension
+
+
+dependence
+- unit_test need libgtest (google test), change the gtest include path in Makefile before 'make run_unit_test'
+
+
+TODO
+- change makefile to autotools or cmake
+
+
+Other
+- this library is under Lifest Approach License
